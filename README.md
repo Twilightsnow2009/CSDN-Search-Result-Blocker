@@ -51,3 +51,16 @@
     }
 }
 
+## 注意事项
+
+- 确保您的浏览器已安装 Tampermonkey 扩展。
+- 如果您对脚本进行了修改，请确保正确保存并重新加载页面。
+
+## 反馈与支持
+
+如果您在使用过程中遇到任何问题，或者有改进建议，请随时在 [Issues](https://github.com/Twilightsnow2009/CSDN-Search-Result-Blocker/issues) 中提交反馈。
+
+## 许可证
+
+本项目遵循 [MIT License](https://github.com/Twilightsnow2009/CSDN-Search-Result-Blocker/blob/main/LICENSE)。
+
